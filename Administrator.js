@@ -4,6 +4,7 @@ import "./Admin.css"
 
 
 function Administrator() {
+    
     return (
       
         <div className='admin'>
